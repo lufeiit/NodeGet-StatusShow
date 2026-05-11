@@ -1,10 +1,10 @@
 {
-  "name":"NodeGet Basic Theme",
-  "short": "NodeGetBasic",
-  "description": "NodeGet Basic Theme - a boilerplate for custom themes",
+  "name":"MT探针",
+  "short": "",
+  "description": "",
   "author": "NodeSeekDev",
-  "repository": "https://github.com/NodeSeekDev/NodeGet-StatusShow",
-  "dist_page": "https://nodeget.pages.dev",
+  "repository": "",
+  "dist_page": "",
   "theme_config":{
     "site_name": "NodeGet Status",
     "site_logo": "",
@@ -12,9 +12,9 @@
   },
   "site_tokens": [
     {
-      "name": "master server node 1",
-      "backend_url": "wss://your-backend.example.com",
-      "token": "YOUR_TOKEN_HERE"
+      "name": "master1",
+      "backend_url": "wss://node.112999.xyz",
+      "token": "2k3KLr7runVGWgOy:TKGaJg2ngSjtWSwjtwRPW66FRFiBkrCn"
     }
   ],
   "license": ""
